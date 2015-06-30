@@ -1,4 +1,4 @@
-# Preamble: set the path to the directory that the checkedout git repo is in - need to do this in order to load the data
+q# Preamble: set the path to the directory that the checkedout git repo is in - need to do this in order to load the data
 gitRepoPath <- "/home/rowem/Documents/Git/Drought-Analysis/"
 
 # list the synset distribution files
